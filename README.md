@@ -1,4 +1,4 @@
-# Ollama REST API
+# Ollama Build Funny Model from Modelfile
 
 This project uses Ollama to create a custom LLM model based on Llama 3.1, built from a Modelfile. The model’s parameters are adjusted to generate more creative and fun responses. A simple Node.js script is then used to send prompts via a REST API and log the responses to the console.
 
